@@ -1,5 +1,5 @@
 resultado1 = 10
-resultado2 = 7
+resultado2 = 5
 media = (resultado1 + resultado2) /2
 
 
